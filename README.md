@@ -1,6 +1,6 @@
 ### Hi there 👋
 I’m currently working on symbolic music research 🎵 using DNNs, including
-- arranging for musical instruments 🎹
+- arranging music for musical instruments 🎹🎸🎺
 - creating and manipulating musical scores 🎼
 - music information retrieval 🔍
 
