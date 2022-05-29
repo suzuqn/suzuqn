@@ -1,7 +1,8 @@
 ### Hi there 👋
-I’m currently working on symbolic music research 🎶 using DNNs, including
+I’m currently working on symbolic music research 🎵 using DNNs, including
 - arranging for musical instruments 🎹
 - creating and manipulating musical scores 🎼
+- music information retrieval 🔍
 
 <!--
 **suzuqn/suzuqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
