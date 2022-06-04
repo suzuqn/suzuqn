@@ -4,7 +4,11 @@ I’m currently working on symbolic music research 🎵 using DNNs, including
 - creating and manipulating musical scores 🎼
 - music information retrieval 🔍
 
-My recent work ["Score Transformer"](https://github.com/suzuqn/ScoreTransformer) focuses on making musical scores from MIDI. 
+My recent work [Score Transformer](https://github.com/suzuqn/ScoreTransformer) focuses on making musical scores from MIDI. 
+
+### for domestic readers 🗾
+- 音楽情報処理の研究してます 🎵
+-- アレンジ🎹、楽譜関連🎼を中心に
 
 <!--
 **suzuqn/suzuqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
