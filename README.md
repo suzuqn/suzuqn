@@ -8,7 +8,7 @@ My recent work [Score Transformer](https://github.com/suzuqn/ScoreTransformer) f
 
 ### for domestic readers 🗾
 - 音楽情報処理の研究してます 🎵
--- アレンジ🎹、楽譜関連🎼を中心に
+- アレンジ🎹 楽譜🎼 関連を中心に
 
 <!--
 **suzuqn/suzuqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
