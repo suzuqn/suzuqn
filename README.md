@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on symbolic music research 🎵 using DNNs, including
+I’m working on symbolic music research 🎵 using DNNs, including
 - arranging music for musical instruments 🎹🎸🎺
 - creating and manipulating musical scores 🎼
 - music information retrieval 🔍
@@ -9,9 +9,8 @@ I’m currently working on symbolic music research 🎵 using DNNs, including
 Feel free to contact me via [Twitter](https://twitter.com/szqn_n) or at the mail address appeared on [my paper](https://arxiv.org/pdf/2112.00355.pdf)!
 
 ### for domestic readers 🗾
-- 音楽情報処理の研究してます 🎵
-- アレンジ🎹 楽譜🎼 関連を中心に
-- ご連絡は[Twitter](https://twitter.com/szqn_n)または[論文](https://arxiv.org/pdf/2112.00355.pdf)に書いてあるメアドへどうぞ！
+- アレンジ🎹 楽譜🎼 関連を中心に、音楽情報処理🎵の研究をしてます
+- ご連絡は[Twitter](https://twitter.com/szqn_n)または[論文](https://arxiv.org/pdf/2112.00355.pdf)にあるメアドへどうぞ！
 
 <!--
 **suzuqn/suzuqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
