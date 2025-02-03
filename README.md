@@ -6,7 +6,7 @@ I’m working on symbolic music research 🎵 using DNNs, including
 
 <!-- - My recent work [Score Transformer](https://github.com/suzuqn/ScoreTransformer) focuses on making musical scores from MIDI. -->
 
-Feel free to contact me via [Twitter](https://twitter.com/szqn_n) or at the mail address appeared on [my paper](https://arxiv.org/pdf/2112.00355.pdf)!
+Feel free to contact me via [X](https://x.com/szqn_n) or at the mail address appeared on [my paper](https://arxiv.org/pdf/2112.00355.pdf)!
 
 <!--
 **suzuqn/suzuqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
