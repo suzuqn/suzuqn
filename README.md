@@ -1,12 +1,10 @@
 ### Hi there 👋
-I’m working on symbolic music research 🎵 using DNNs, including
+I’m working on symbolic music research 🎵, including
 - arranging music for musical instruments 🎹🎸🎺
-- creating and manipulating musical scores 🎼
+- generating and manipulating musical scores 🎼
 - music information retrieval 🔍
 
 <!-- - My recent work [Score Transformer](https://github.com/suzuqn/ScoreTransformer) focuses on making musical scores from MIDI. -->
-
-Feel free to contact me via [X](https://x.com/szqn_n) or at the mail address appeared on [my paper](https://arxiv.org/pdf/2112.00355.pdf)!
 
 <!--
 **suzuqn/suzuqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
